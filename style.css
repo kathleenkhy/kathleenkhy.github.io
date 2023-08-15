@@ -1,0 +1,20 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: rgb(68, 68, 68);
+  background-color: rgb(248, 241, 231);
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  color: rgb(10, 114, 102);
+}
+
+.container {
+  display: block;
+  width: 500px;
+  margin: 0 auto;
+}
